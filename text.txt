@@ -1,0 +1,2 @@
+This is a new file
+Try to test something about merge conflict
